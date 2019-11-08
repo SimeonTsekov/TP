@@ -1,3 +1,6 @@
 Simeon
+<<<<<<< HEAD
 Milanov
+=======
+>>>>>>> 70aa44e... s2: Added family name
 Tsekov
